@@ -3,6 +3,8 @@
 ![Not_Kayit](https://user-images.githubusercontent.com/67802869/109224522-1ccb0400-77cd-11eb-9861-f8eec4412382.png)
 ![Karanlik_Mod](https://user-images.githubusercontent.com/67802869/109224519-1c326d80-77cd-11eb-94cc-512684f2bddf.png)
 ![Not_Silme](https://user-images.githubusercontent.com/67802869/109224526-1d639a80-77cd-11eb-8e03-b1cc2e080f57.png)
+
+
  Basit bir not uygulamasıdır. SQLite veritabanı kullanılmıştır.
 
 
